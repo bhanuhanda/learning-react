@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 101,
+      "language": "JavaScipt",
+      "category": "Client Side Scripting Language"
+    },
+    {
+      "id": 201,
+      "language": "Hadoop",
+      "category": "Cloud Computing Language"
+    },
+    {
+      "id": 301,
+      "language": "C++",
+      "category": "Programming Language"
+    },
+    {
+      "id": 401,
+      "language": "Html/Css",
+      "category": "FrontEnd Language"
+    },
+    {
+      "id": 501,
+      "language": "Ruby",
+      "category": "BackEnd Language"
+    },
+    {
+      "id": 601,
+      "language": "GraphQL",
+      "category": "Query Language"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
